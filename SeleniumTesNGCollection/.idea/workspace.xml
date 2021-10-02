@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c5b8051-0c25-4122-8572-2c9cc35bb5ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tCmPtfPiFv9cflqS5BO6zjmbI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.sergeoReviewTest.newTest2">
+    <configuration name="GroupJavaBearsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesNGCollection" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupJavaBearsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupStepInJavaTeamTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesNGCollection" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupStepInJavaTeamTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SergeiDTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesNGCollection" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SergeiDTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sergeoReviewTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesNGCollection" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="sergeoReviewTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sergeoReviewTest.newTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesNGCollection" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="sergeoReviewTest" />
+      <option name="METHOD_NAME" value="newTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.sergeoReviewTest.newTest2" />
+        <item itemvalue="TestNG.sergeoReviewTest" />
+        <item itemvalue="TestNG.SergeiDTest" />
+        <item itemvalue="TestNG.GroupStepInJavaTeamTest" />
+        <item itemvalue="TestNG.GroupJavaBearsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="982" height="476" key="GridCell.Tab.0.bottom" timestamp="1622381717405">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="476" key="GridCell.Tab.0.bottom/0.24.1024.720@0.24.1024.720" timestamp="1622381717405" />
+    <state width="982" height="476" key="GridCell.Tab.0.center" timestamp="1622381717403">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="476" key="GridCell.Tab.0.center/0.24.1024.720@0.24.1024.720" timestamp="1622381717403" />
+    <state width="982" height="476" key="GridCell.Tab.0.left" timestamp="1622381717402">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="476" key="GridCell.Tab.0.left/0.24.1024.720@0.24.1024.720" timestamp="1622381717402" />
+    <state width="982" height="476" key="GridCell.Tab.0.right" timestamp="1622381717404">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="476" key="GridCell.Tab.0.right/0.24.1024.720@0.24.1024.720" timestamp="1622381717404" />
+    <state x="0" y="88" width="1016" height="588" key="new project wizard" timestamp="1622382474530">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="88" width="1016" height="588" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1622382474530" />
+  </component>
+</project>

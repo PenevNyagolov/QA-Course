@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f1131a4-d80b-4869-a45c-0a223cf9110c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1snz9nBcZyeqBt7maJjIfJLPDJw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.SecondTest">
+    <configuration name="FirstPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstPageTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstPageTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest.secondTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondTest" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest.secondTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SudaysPractiesSeleniumTestNG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondTest" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.FirstPageTest" />
+      <item itemvalue="TestNG.SecondTest" />
+      <item itemvalue="TestNG.SecondTest.secondTest" />
+      <item itemvalue="TestNG.FirstPageTest.firstTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SecondTest" />
+        <item itemvalue="TestNG.SecondTest" />
+        <item itemvalue="TestNG.FirstPageTest.firstTest" />
+        <item itemvalue="TestNG.SecondTest.secondTest" />
+        <item itemvalue="TestNG.SecondTest.secondTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="24" width="1024" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621792739358">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="24" width="1024" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1024.720@0.24.1024.720" timestamp="1621792739358" />
+    <state width="982" height="164" key="GridCell.Tab.0.bottom" timestamp="1621792748916">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="164" key="GridCell.Tab.0.bottom/0.24.1024.720@0.24.1024.720" timestamp="1621792748916" />
+    <state width="982" height="164" key="GridCell.Tab.0.center" timestamp="1621792748914">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="164" key="GridCell.Tab.0.center/0.24.1024.720@0.24.1024.720" timestamp="1621792748914" />
+    <state width="982" height="164" key="GridCell.Tab.0.left" timestamp="1621792748912">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="164" key="GridCell.Tab.0.left/0.24.1024.720@0.24.1024.720" timestamp="1621792748912" />
+    <state width="982" height="164" key="GridCell.Tab.0.right" timestamp="1621792748915">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="164" key="GridCell.Tab.0.right/0.24.1024.720@0.24.1024.720" timestamp="1621792748915" />
+    <state x="0" y="132" width="1016" height="588" key="new project wizard" timestamp="1621573307389">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="132" width="1016" height="588" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1621573307389" />
+    <state x="175" y="170" key="run.anything.popup" timestamp="1621792662215">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="175" y="170" key="run.anything.popup/0.24.1024.720@0.24.1024.720" timestamp="1621792662215" />
+  </component>
+</project>

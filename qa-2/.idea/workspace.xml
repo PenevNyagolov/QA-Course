@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f34084a-973f-4050-b5bf-b17471b1c451" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qwJQM4ojZKZSYeY6j6Xtto4avG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.task6">
+    <configuration name="maxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.maxArray" />
+      <module name="qa-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.minArray" />
+      <module name="qa-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tasc3" />
+      <module name="qa-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.task5" />
+      <module name="qa-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.task6" />
+      <module name="qa-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task6" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.tasc3" />
+        <item itemvalue="Application.minArray" />
+        <item itemvalue="Application.maxArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="982" height="171" key="GridCell.Tab.0.bottom" timestamp="1618134780557">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="171" key="GridCell.Tab.0.bottom/0.24.1024.720@0.24.1024.720" timestamp="1618134780557" />
+    <state width="982" height="171" key="GridCell.Tab.0.center" timestamp="1618134780555">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="171" key="GridCell.Tab.0.center/0.24.1024.720@0.24.1024.720" timestamp="1618134780555" />
+    <state width="982" height="171" key="GridCell.Tab.0.left" timestamp="1618134780554">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="171" key="GridCell.Tab.0.left/0.24.1024.720@0.24.1024.720" timestamp="1618134780554" />
+    <state width="982" height="171" key="GridCell.Tab.0.right" timestamp="1618134780556">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="171" key="GridCell.Tab.0.right/0.24.1024.720@0.24.1024.720" timestamp="1618134780556" />
+    <state width="972" height="113" key="GridCell.Tab.1.bottom" timestamp="1618070424112">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="972" height="113" key="GridCell.Tab.1.bottom/0.24.1024.720@0.24.1024.720" timestamp="1618070424112" />
+    <state width="972" height="113" key="GridCell.Tab.1.center" timestamp="1618070424111">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="972" height="113" key="GridCell.Tab.1.center/0.24.1024.720@0.24.1024.720" timestamp="1618070424111" />
+    <state width="972" height="113" key="GridCell.Tab.1.left" timestamp="1618070424111">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="972" height="113" key="GridCell.Tab.1.left/0.24.1024.720@0.24.1024.720" timestamp="1618070424111" />
+    <state width="972" height="113" key="GridCell.Tab.1.right" timestamp="1618070424112">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="972" height="113" key="GridCell.Tab.1.right/0.24.1024.720@0.24.1024.720" timestamp="1618070424112" />
+    <state x="0" y="24" width="1016" height="717" key="new project wizard" timestamp="1618135306379">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="24" width="1016" height="717" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1618135306379" />
+  </component>
+</project>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="987a63f3-0d69-4307-b177-1fd8804b7498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pLEqwVZ8XAwfAxWxtKMlun9OQM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.tasks3">
+    <configuration name="opit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opit" />
+      <module name="homeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodAndSolving.tasks" />
+      <module name="homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodAndSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodAndSolving.tasks1" />
+      <module name="homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodAndSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodAndSolving.tasks2" />
+      <module name="homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodAndSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodAndSolving.tasks3" />
+      <module name="homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodAndSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.opit" />
+      <item itemvalue="Application.tasks1" />
+      <item itemvalue="Application.tasks2" />
+      <item itemvalue="Application.tasks3" />
+      <item itemvalue="Application.tasks" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tasks3" />
+        <item itemvalue="Application.tasks2" />
+        <item itemvalue="Application.tasks" />
+        <item itemvalue="Application.tasks1" />
+        <item itemvalue="Application.opit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="982" height="240" key="GridCell.Tab.0.bottom" timestamp="1617122883227">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="240" key="GridCell.Tab.0.bottom/0.24.1024.720@0.24.1024.720" timestamp="1617122883227" />
+    <state width="982" height="240" key="GridCell.Tab.0.center" timestamp="1617122883225">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="240" key="GridCell.Tab.0.center/0.24.1024.720@0.24.1024.720" timestamp="1617122883225" />
+    <state width="982" height="240" key="GridCell.Tab.0.left" timestamp="1617122883224">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="240" key="GridCell.Tab.0.left/0.24.1024.720@0.24.1024.720" timestamp="1617122883224" />
+    <state width="982" height="240" key="GridCell.Tab.0.right" timestamp="1617122883226">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="240" key="GridCell.Tab.0.right/0.24.1024.720@0.24.1024.720" timestamp="1617122883226" />
+    <state x="0" y="24" width="1016" height="717" key="new project wizard" timestamp="1615739024907">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="24" width="1016" height="717" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1615739024907" />
+    <state x="175" y="170" key="run.anything.popup" timestamp="1615138907959">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="175" y="170" key="run.anything.popup/0.24.1024.720@0.24.1024.720" timestamp="1615138907959" />
+  </component>
+</project>

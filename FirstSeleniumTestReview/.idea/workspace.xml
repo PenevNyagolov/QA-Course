@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cba17f8-1072-4db2-badb-d7200585510b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sUQSM68iUQzhlwFhIForKrow60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.FirstTest">
+    <configuration name="FirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <module name="FirstSeleniumTestReview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FirstSeleniumTestReview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstSeleniumTestReview" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FirstTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="TestNG.FirstTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-29" y="41" width="1024" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621098196116">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="-29" y="41" width="1024" height="519" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1024.720@0.24.1024.720" timestamp="1621098196116" />
+    <state width="982" height="209" key="GridCell.Tab.0.bottom" timestamp="1621098339282">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="209" key="GridCell.Tab.0.bottom/0.24.1024.720@0.24.1024.720" timestamp="1621098339282" />
+    <state width="982" height="209" key="GridCell.Tab.0.center" timestamp="1621098339281">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="209" key="GridCell.Tab.0.center/0.24.1024.720@0.24.1024.720" timestamp="1621098339281" />
+    <state width="982" height="209" key="GridCell.Tab.0.left" timestamp="1621098339280">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="209" key="GridCell.Tab.0.left/0.24.1024.720@0.24.1024.720" timestamp="1621098339280" />
+    <state width="982" height="209" key="GridCell.Tab.0.right" timestamp="1621098339281">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="209" key="GridCell.Tab.0.right/0.24.1024.720@0.24.1024.720" timestamp="1621098339281" />
+    <state width="982" height="213" key="GridCell.Tab.1.bottom" timestamp="1621014571670">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="213" key="GridCell.Tab.1.bottom/0.24.1024.720@0.24.1024.720" timestamp="1621014571670" />
+    <state width="982" height="213" key="GridCell.Tab.1.center" timestamp="1621014571669">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="213" key="GridCell.Tab.1.center/0.24.1024.720@0.24.1024.720" timestamp="1621014571669" />
+    <state width="982" height="213" key="GridCell.Tab.1.left" timestamp="1621014571669">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="213" key="GridCell.Tab.1.left/0.24.1024.720@0.24.1024.720" timestamp="1621014571669" />
+    <state width="982" height="213" key="GridCell.Tab.1.right" timestamp="1621014571670">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state width="982" height="213" key="GridCell.Tab.1.right/0.24.1024.720@0.24.1024.720" timestamp="1621014571670" />
+    <state x="0" y="88" width="1016" height="588" key="new project wizard" timestamp="1621098379929">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="88" width="1016" height="588" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1621098379929" />
+  </component>
+</project>

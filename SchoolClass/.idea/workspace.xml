@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6248320-07f7-407b-bdcb-2d8bda137998" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rLiveX5Dsf6WqHOwvrO1WLfrB1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="161" width="526" height="440" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1618762112393">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="241" y="161" width="526" height="440" key="#com.intellij.ide.util.PackageChooserDialog/0.24.1024.720@0.24.1024.720" timestamp="1618762112393" />
+    <state x="0" y="24" width="1016" height="717" key="new project wizard" timestamp="1618764577830">
+      <screen x="0" y="24" width="1024" height="720" />
+    </state>
+    <state x="0" y="24" width="1016" height="717" key="new project wizard/0.24.1024.720@0.24.1024.720" timestamp="1618764577830" />
+  </component>
+</project>
